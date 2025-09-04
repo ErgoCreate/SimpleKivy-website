@@ -5,12 +5,13 @@ Gemfile.lock
 
 # Pre-building tasks
 build.py
+.pybuild
 serve.bat
 
 # Jekyll cache
 .jekyll-cache
 .jekyll-metadata
-# _site
+_site
 
 # RubyGems
 *.gem
